@@ -110,6 +110,7 @@ This manual testing project for Foodpanda successfully validated the platform’
 ## Test Report Summary
 ![image](https://github.com/user-attachments/assets/e2ef9a27-3132-4f8a-ac29-caf614fbb353)
 
-<img width="248" alt="test report_2" src="https://github.com/user-attachments/assets/80b95284-f63f-4cc5-b0ae-1d971a6dd744" />
+![image](https://github.com/user-attachments/assets/ae12277a-0290-43b4-b3c4-2ce5c1fa2b05)
+
 
 
