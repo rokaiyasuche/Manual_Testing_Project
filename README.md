@@ -104,7 +104,8 @@ This manual testing project for Foodpanda successfully validated the platform’
 
 ## Mind map
 
-<img width="397" alt="mind map" src="https://github.com/user-attachments/assets/6666de87-d179-4828-9c81-6135dd2096e4" />
+![image](https://github.com/user-attachments/assets/14a25e01-6b99-4e60-87e7-4bb7f39e56c5)
+
 
 ## Test Report Summary
 
